@@ -1,0 +1,14 @@
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/bin/Debug/net9.0/DependencyInjection
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/bin/Debug/net9.0/DependencyInjection.deps.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/bin/Debug/net9.0/DependencyInjection.runtimeconfig.json
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/bin/Debug/net9.0/DependencyInjection.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/bin/Debug/net9.0/DependencyInjection.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/obj/Debug/net9.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/obj/Debug/net9.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/obj/Debug/net9.0/DependencyInjection.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/obj/Debug/net9.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/obj/Debug/net9.0/DependencyInjection.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/obj/Debug/net9.0/refint/DependencyInjection.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/obj/Debug/net9.0/DependencyInjection.pdb
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/obj/Debug/net9.0/DependencyInjection.genruntimeconfig.cache
+/Users/ahmetguvendik/Desktop/untitled folder/Project/DependencyInjection/DependencyInjection/obj/Debug/net9.0/ref/DependencyInjection.dll
